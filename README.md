@@ -1,3 +1,4 @@
 # Git_learning
-author sowmya
+Author Sowmya
+<br>
 This is my first repository
